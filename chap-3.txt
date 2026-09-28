@@ -1,0 +1,13 @@
+i don't know anything except
+
+navigate through the terminal
+-mv
+-lives
+-cd
+-touch
+-mkdir
+-rm
+-mv
+
+-ls -a
+-ls -l
