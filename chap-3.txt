@@ -8,6 +8,8 @@ navigate through the terminal
 -mkdir
 -rm
 -mv
-
+-cat
 -ls -a
 -ls -l
+echo
+

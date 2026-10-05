@@ -8,4 +8,6 @@ we learned about the software and hardware
 -computers
 -cpu 
 - wires
-- 
+- cabinet
+- usb
+- Io shield
